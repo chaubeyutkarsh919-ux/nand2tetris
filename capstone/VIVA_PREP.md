@@ -1,6 +1,6 @@
 # Capstone Viva Preparation Guide (5 Minutes Viva)
 **Subject:** Nand to Tetris – I (ETCCNT301)  
-**Student:** Shivam Kumar Roy | **Roll No:** 2501010138 | **K = 38**
+**Student:** Utkarsh chaubey | **Roll No:** 2501730482 | **K = 82**
 
 ---
 
