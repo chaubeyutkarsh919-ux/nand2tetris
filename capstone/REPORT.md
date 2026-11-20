@@ -6,15 +6,15 @@
 ---
 
 ### Student Details
-- **Student Name:** Shivam Kumar Roy
-- **Roll Number:** 2501010138
-- **Personal Number \(K\):** `38` *(Last two digits of Roll Number: 2501010138)*
+- **Student Name:** Utkarsh Chaubey
+- **Roll Number:** 2501730482
+- **Personal Number \(K\):** `82` *(Last two digits of Roll Number: 2501730482)*
 - **Calculations based on \(K = 38\):**
-  - **\(K \pmod 3\):** \(38 \pmod 3 = 2\)  
+  - **\(K \pmod 3\):** \(82 \pmod 3 = 2\)  
     **Assigned Assembler Extra Feature:** *Print a warning if the same label is written twice.*
-  - **\(K \pmod 4\):** \(38 \pmod 4 = 2\)  
+  - **\(K \pmod 4\):** \(82 \pmod 4 = 2\)  
   - **Box Position & Size:**
-    - **Starting Row:** Row \(K = 38\)
+    - **Starting Row:** Row \(K = 82\)
     - **Height:** 20 rows (Rows 38 to 57 inclusive)
     - **Width:** \(16 \times ((K \pmod 4) + 1) = 16 \times (2 + 1) = 48\) pixels from the left edge.
     - **Screen Memory Words:** Hack display has 16 pixels per word. 48 pixels = 3 consecutive words (Word 0, Word 1, Word 2) at the start of each row.
